@@ -1,6 +1,11 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"  />
+###
+
+<div align="left">
 </div>
+
+###
+
+<h1 align="center">Phạm Ngọc Mẫn</h1>
 
 ###
 
@@ -14,9 +19,7 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="center">Hello, I'm Phạm Ngọc Mẫn</h1>
+<p align="center">Where logic of code the art of visuals</p>
 
 ###
 
@@ -55,6 +58,10 @@
 ###
 
 <div align="center">
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
