@@ -10,11 +10,25 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="75" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="75" height="40" alt="gitlab logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="40" alt="gmail logo"  />
+  <table style="border: none; background: transparent; border-collapse: collapse;">
+    <tr style="border: none; background: transparent;">
+      <td style="border: none; background: transparent; padding: 0 10px;">
+        <a href="LINK_FACEBOOK_CỦA_BẠN"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook" /></a>
+      </td>
+      <td style="border: none; background: transparent; padding: 0 10px;">
+        <a href="LINK_INSTAGRAM_CỦA_BẠN"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram" /></a>
+      </td>
+      <td style="border: none; background: transparent; padding: 0 10px;">
+        <a href="LINK_GITLAB_CỦA_BẠN"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="50" height="40" alt="gitlab" /></a>
+      </td>
+      <td style="border: none; background: transparent; padding: 0 10px;">
+        <a href="LINK_DISCORD_CỦA_BẠN"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord" /></a>
+      </td>
+      <td style="border: none; background: transparent; padding: 0 10px;">
+        <a href="LINK_GMAIL_CỦA_BẠN"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail" /></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
